@@ -3,7 +3,7 @@
 **核心结论**：   
 MMSegmentation 拥有最丰富的算法实现与统一的 Benchmark，适合追求最前沿、全面比较的研究；SMP 则以简洁的 API 和对 800+ 编码器的支持著称，模型容量大、便于快速原型迭代；Torchvision 虽然模型种类最少，但得益于 PyTorch 官方身份，依托核心库自带最稳定的预训练权重和轻量级部署，适合对轻量任务和快速集成的场景。
 
-## 一、库概览
+## 一、库概览 
 
 - **MMSegmentation**：OpenMMLab 旗下的语义分割一站式工具箱，支持从 PSPNet、DeepLabV3+ 到 HRNet、OCRNet 等 25+ 主流与前沿方法，且提供统一的配置系统与 Benchmark 工具([GitHub](https://github.com/open-mmlab/mmsegmentation?utm_source=chatgpt.com "open-mmlab/mmsegmentation: OpenMMLab Semantic ... - GitHub"), [mmsegmentation.readthedocs.io](https://mmsegmentation.readthedocs.io/en/latest/model_zoo.html "Benchmark and Model Zoo — MMSegmentation 1.2.2 documentation"))。
     
