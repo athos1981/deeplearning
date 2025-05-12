@@ -35,14 +35,14 @@
             "id": "b2b8899ba3a3f850",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore.txt",
-                "bFile": ".gitignore.txt",
-                "aRef": ""
+                "file": "测试.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore.txt"
+              "icon": "lucide-file",
+              "title": "测试"
             }
           }
         ],
@@ -204,7 +204,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fa7ee74e8d6c365b",
+  "active": "b2b8899ba3a3f850",
   "lastOpenFiles": [
     "Segmentaion组件库比较MMSegmentation Segmentation Models Pytorch Torchvision.md",
     "医疗.md",
