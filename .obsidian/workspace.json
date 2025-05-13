@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "医疗/医疗.md",
+                "file": "数学/概率论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "医疗"
+              "title": "概率论"
             }
           }
         ],
@@ -75,8 +75,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "医疗/医疗.md",
+                "file": "数学/概率论.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "医疗 的大纲"
+              "title": "概率论 的大纲"
             }
           },
           {
@@ -182,11 +181,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ee5ec2c38b55ab5",
+  "active": "87fb6a1673206ac1",
   "lastOpenFiles": [
+    "医疗/医疗.md",
+    "数学/概率论.md",
+    "数学",
     "_config.yml",
     "README.md",
-    "医疗/医疗.md",
     "杂记/2025-05-13.md",
     "医疗/Segmentaion组件库比较MMSegmentation Segmentation Models Pytorch Torchvision.md",
     "杂记",
