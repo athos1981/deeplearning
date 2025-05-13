@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87fb6a1673206ac1",
+  "active": "b3196e2ba061fc91",
   "lastOpenFiles": [
     "医疗/医疗.md",
     "医疗/Segmentaion组件库比较MMSegmentation Segmentation Models Pytorch Torchvision.md",
