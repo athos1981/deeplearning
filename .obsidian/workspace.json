@@ -25,10 +25,14 @@
             "id": "62139e2a9f36a91d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "2025-05-13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-13"
             }
           },
           {
@@ -46,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "医疗.md",
+                "file": "2025-05-13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "医疗 的大纲"
+              "title": "2025-05-13 的大纲"
             }
           },
           {
@@ -191,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,11 +209,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2b8899ba3a3f850",
+  "active": "62139e2a9f36a91d",
   "lastOpenFiles": [
-    "Segmentaion组件库比较MMSegmentation Segmentation Models Pytorch Torchvision.md",
+    "未命名 1.canvas",
+    "2025-05-13.md",
+    "未命名.canvas",
     "医疗.md",
     "测试.md",
+    "Segmentaion组件库比较MMSegmentation Segmentation Models Pytorch Torchvision.md",
     "新建 文本文档.txt",
     "创建链接.md",
     "欢迎.md"
