@@ -1,1 +1,5 @@
 /.obsidian/
+app.json
+workspace.json
+appearance.json
+.DS_store
