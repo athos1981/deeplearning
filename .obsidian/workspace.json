@@ -37,30 +37,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/概率论.md",
+                "file": "测试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "概率论"
-            }
-          },
-          {
-            "id": "574643dec3ffb1c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "测试"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,17 +204,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "574643dec3ffb1c0",
+  "active": "fa7ee74e8d6c365b",
   "lastOpenFiles": [
-    "杂记/医疗.md",
-    "README.md",
-    "深度学习/Segmentaion组件库比较MMSegmentation Segmentation Models Pytorch Torchvision.md",
+    "_config.yml",
     "杂记/2025-05-13.md",
-    "数学/概率论.md",
-    "数学/集合论-单射、满射、双射.md",
     "杂记",
+    "数学/概率论.md",
     "数学",
-    "深度学习",
+    "医疗/医疗.md",
+    "医疗/Segmentaion组件库比较MMSegmentation Segmentation Models Pytorch Torchvision.md",
+    "医疗",
     "Segmentaion组件库比较MMSegmentation Segmentation Models Pytorch Torchvision.md",
     "医疗.md",
     "测试.md",
