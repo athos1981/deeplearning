@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "医学影像/心脏超声简短介绍.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "心脏超声简短介绍"
             }
           }
         ],
@@ -234,8 +234,8 @@
   },
   "active": "9c8151b47da8c535",
   "lastOpenFiles": [
-    "深度学习/Segmentaion组件库比较MMSegmentation Segmentation Models Pytorch Torchvision.md",
     "README.md",
+    "深度学习/Segmentaion组件库比较MMSegmentation Segmentation Models Pytorch Torchvision.md",
     "医学影像/心脏超声简短介绍.md",
     "医学影像",
     "杂记/医疗.md",
