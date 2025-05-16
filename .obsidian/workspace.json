@@ -232,11 +232,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9c8151b47da8c535",
+  "active": "fa7ee74e8d6c365b",
   "lastOpenFiles": [
+    "医学影像/心脏超声简短介绍.md",
+    "conflict-files-obsidian-git.md",
     "README.md",
     "深度学习/Segmentaion组件库比较MMSegmentation Segmentation Models Pytorch Torchvision.md",
-    "医学影像/心脏超声简短介绍.md",
     "医学影像",
     "杂记/医疗.md",
     "杂记/2025-05-13.md",
