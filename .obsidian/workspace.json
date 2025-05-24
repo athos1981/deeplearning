@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记/医疗.md",
+                "file": "深度学习/SwinV2、CaFormer、EVA-02、 ConvNeXtV2模型比较.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "医疗"
+              "title": "SwinV2、CaFormer、EVA-02、 ConvNeXtV2模型比较"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "医疗.md",
+                "file": "深度学习/SwinV2、CaFormer、EVA-02、 ConvNeXtV2模型比较.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "医疗 的出链列表"
+              "title": "SwinV2、CaFormer、EVA-02、 ConvNeXtV2模型比较 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂记/医疗.md",
+                "file": "深度学习/SwinV2、CaFormer、EVA-02、 ConvNeXtV2模型比较.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "医疗 的大纲"
+              "title": "SwinV2、CaFormer、EVA-02、 ConvNeXtV2模型比较 的大纲"
             }
           },
           {
@@ -179,9 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3734f0a90c897a9a",
+  "active": "6f766d52c3620b7c",
   "lastOpenFiles": [
     "杂记/医疗.md",
+    "深度学习/SwinV2、CaFormer、EVA-02、 ConvNeXtV2模型比较.md",
     "杂记/2025-05-13.md",
     "README.md",
     "数学/概率论/扑克牌各种概率的计算.md",
