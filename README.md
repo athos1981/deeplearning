@@ -6,6 +6,6 @@
 
 ## 深度学习
 [Segmentaion组件库](深度学习/Segmentaion组件库比较MMSegmentation、Segmentation Models、 Torchvision.md)
-
+[SwinV2、CaFormer、EVA-02、 ConvNeXtV2模型比较](SwinV2、CaFormer、EVA-02、%20ConvNeXtV2模型比较.md)
 ## 医学影像
 [心脏超声简短介绍](医学影像/心脏超声简短介绍.md)
