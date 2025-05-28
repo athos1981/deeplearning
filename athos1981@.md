@@ -1,1 +1,0 @@
-https://athos1981.github.io/deeplearning/
